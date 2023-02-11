@@ -11,3 +11,6 @@
 ⚛️ React
 💎 Material UI
 🔄 Redux
+📈 Responsive Design
+🔨 Git
+🌐 Webpack
