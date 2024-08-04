@@ -13,20 +13,22 @@ I'm a Junior Front-end Developer based in 🇬🇪 Georgia.
 
 ## 🧑‍💻 Skills
 Here are some of my technical skills:
-- 📝 HTML
-- 🎨 CSS/SCSS
-- 🛡️ Bootstrap
 - 🔥 JavaScript
 - ⚛️ React
+- 🖧 Node.js
+- ⚡ Vite
+- 🗃️ MongoDB
 - 💎 Material UI
 - 🔄 Redux
+- 🏗️ Tailwind
 - 📈 Responsive Design
 - 🔨 Git
 - 🌐 Webpack
 - 📐 UI/UX design principles
 - 🚀 Performance optimization
-- 📦 Package managers (e.g., npm, yarn, etc.)
-- 🕸️ Web APIs (e.g., DOM, Fetch API, etc.)
+- 📦 Package managers (e.g., npm)
+- 🕸️ Web APIs (e.g., DOM, Fetch API)
+
 
 ## 📱 Let's Connect
 If you're interested in collaborating or just want to say hi, feel free to reach out to me through any of the following channels:
